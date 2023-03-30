@@ -1,4 +1,2 @@
-nginx:
-  image: nginx
-  ports:
-    - 8080:80
+main:
+  image: ubuntu
